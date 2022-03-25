@@ -1,0 +1,10 @@
+numpy==1.21
+scikit-learn==0.24.2
+pandas==1.2.5
+pytorch==1.9.0 
+cudatoolkit==10.2
+skorch
+ray-tune==1.6.0
+tensorboardX==2.4
+gekko==1.0.2
+tensorflow   # Required for tensorboard to work properly
