@@ -12,7 +12,7 @@ This package allows users to sample the network architecture based on sampling p
 
 All deep learning modules in this package are designed based on the Ray Tune hyperparameter tuning package, user can sample the multi-layer network neuron distribution using the provided architecture sampling function, together with the range of other hyperparameters including: learning rate, batch size, dropout probability. 
 
-Design examples are shown in the "[example](https://github.com/bayer-int/cdst/tree/master/example)" folder with detail structure and graphical illustration of each module. Users can follow these examples and adjust accordingly to suit their own use case and to better understand the mechanics behind the package.
+Design examples are shown in the "[example](../example)" folder with detail structure and graphical illustration of each module. Users can follow these examples and adjust accordingly to suit their own use case and to better understand the mechanics behind the package.
 
 
 ## Hyperparameter Tunning
