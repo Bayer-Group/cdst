@@ -74,7 +74,7 @@ Design examples are shown in the "[example](https://github.com/Bayer-Group/cdst/
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install CDST.
 
 ```bash
-pip install git+ssh://git@github.com:bayer-int/cdst.git
+pip install git+ssh://git@github.com:Bayer-Group/cdst.git
 ```
 
 ## Usage
