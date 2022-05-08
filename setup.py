@@ -11,7 +11,7 @@ setuptools.setup(
     author='Dr. Calvin Chan',
     author_email='calvin.chan@bayer.com',
     keywords=['deep learning', 'hyperparameter'],
-    url='https://github.com/Bayer-Group/cdst',
+    url='https://github.com/Bayer-Group/cdst/dist',
     description="Calvin's Data Science Toolbox",
     long_description=long_description,
     install_requires=['cython>="0.29.24"',
