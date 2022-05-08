@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name='cdst',
     packages=setuptools.find_packages(),
-    version='1.0',
+    version='0.1',
     author='Dr. Calvin Chan',
     author_email='calvin.chan@bayer.com',
     keywords=['deep learning', 'hyperparameter'],
